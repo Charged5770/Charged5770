@@ -1,3 +1,6 @@
+# THIS ACCOUNT HAS MOVED TO GITLAB, PROJECTS HAVE BEEN REMOVED.
+My [GitLab](https://gitlab.com/charged1)
+
 Hey, I'm Charged
 --
 I love programing, gaming and lot's of other stuff too!
